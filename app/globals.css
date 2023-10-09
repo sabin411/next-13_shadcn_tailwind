@@ -70,8 +70,6 @@ body,
     --warning: hsla(48, 100%, 50%, 1);
     --linear-white: hsla(0, 0%, 100%, 1);
     --linear-1: hsla(169, 100%, 25%, 1);
-
-    /* (Font sizes) */
   }
 
   .dark {
